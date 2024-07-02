@@ -1,0 +1,392 @@
+*{margin:0;
+font:arial;}
+  
+
+.nav{height:60px;
+background-color:black;
+color:white;
+display:flex;
+  
+}
+
+.nav logo{
+  height:60px;
+  width:110px;
+}
+.logo{height:60px;
+  width:110px;
+  background-image:
+ url("/Amazon /png-transparent-amazon-dark-hd-logo-thumbnail (1).png");
+ background-size:cover;
+}
+.delivery{ font-size:10px;
+position:relative ;
+top:20px;
+margin-left:10px;
+  
+}
+
+.border{border:2px solid transparent }
+.border:hover{ border:2px solid white }
+
+.icon{
+  display:flex;
+  font:bold;
+}
+.addsec{font-size:12px;
+font-style:bold;
+}
+
+.Search{
+  display:flex;
+  height:30px;
+  position:relative;
+  top:20px;
+  margin-left:20px;
+}
+.search-icon{
+  height:29px;
+  width:28px;
+  background-color:rgb(255,208,0);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  border-top-right-radius:2px;
+  border-bottom-right-radius:2px;
+  color:black;
+}
+.search-select{
+  width:60px;
+}
+
+.inp{
+  width:550px;
+}
+
+.nav-sign{
+  margin-left:100px;
+  position:relative;
+  top:18px;
+}
+.navf{
+  font-size:10px;
+}
+.navs{
+  font-size:13px;
+  font-family:bold;
+}
+.order{
+  margin-left:25px;
+  position:relative;
+  top:16px;
+}
+.o1{
+  font-size:11px;
+}
+.o2{
+  font-size:14px;
+}
+.cart{
+  margin:30px;
+  position:relative;
+  bottom:2px;
+}
+
+.nav2{
+  height:40px;
+  background-color:#373A40;
+  color:white;
+  display:flex}
+
+  .img1{
+  height:340px;
+  width:1280px;
+  background-image:url("/Amazon /71YTsbTxBsL._SX3000_.jpg");
+  background-size:cover;}
+  
+  .grip{
+    height:40px;
+    width:30px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.g1{
+  margin-top:10px;
+}
+.g2{
+  margin-top:10px;
+  margin-left:25px;
+}
+
+.about{
+  height:25px;
+  width:1200px;
+  color:#373A40;
+  position:relative;
+  bottom:80px;
+  background-color:white;
+  font-size:12px;
+  margin-left:50px;
+  display:flex;
+  Justify-content:center ;
+  align-items:center ;
+  
+}
+.gaming{
+  height:400px;
+  width:320px;
+  background-color:
+  margin-left:20px;
+  position:relative ;
+  bottom:40px;
+}
+  
+.headset{
+  background-image:url("/Amazon /Fuji_Quad_Headset_2x._SY232_CB667159060_.jpg");
+  
+  height:100px;
+  width:125px;
+  background-size:cover;
+  margin-top:20px;
+  position:relative;
+  right:10px;
+  background-color:#F8F4E1
+}
+.keybord{
+  height:100px;
+  width:140px;
+  background-image:url("/Amazon /Fuji_Quad_Keyboard_2x._SY232_CB667159063_.jpg");
+  background-size:cover;
+  margin-left:150px;
+  position:relative ;
+  bottom:95px;
+}
+.mouse{
+  height:100px;
+  width:140px;
+  background-image:url("/Amazon /Fuji_Quad_Mouse_2x._SY232_CB667159063_.jpg");
+  background-size:cover;
+  position:relative ;
+  bottom:50px;
+}
+.chair{
+  height:100px;
+  width:120px;
+  background-image:url("/Amazon /Fuji_Quad_Chair_2x._SY232_CB667159060_.jpg");
+  background-size:cover;
+  position:relative ;
+  left:130px;
+  bottom:150px;
+}
+.title{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:18px;
+  }
+  
+  .deal{
+    height:320px;
+    width:270px;
+    background-color:#F8F4E1;
+    position:relative;
+    left:330px;
+    bottom:445px;
+  }
+  
+  .fashion{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:18px;
+    
+  }
+  .cloth{
+    height:100px;
+    width:100px;
+    background-color:grey ;
+      background-image:url("/Amazon /DQC_APR_TBYB_W_TOPS_2x._SY232_CB623353881_.jpg");
+      background-size:cover;
+      position:relative;
+      left:8px;
+      top:15px;
+    }
+    .cloth2{
+      height:100px;
+      width:100px;
+      background-image:url("/Amazon /DQC_APR_TBYB_W_DRESSES_2x._SY232_CB623353881_.jpg");
+      background-size:cover;
+      position:relative;
+      top:60px;
+      left:8px;
+      
+    }
+    .fw{
+      height:100px ;
+      width:100px ;
+      background-image:url("/Amazon /DQC_APR_TBYB_W_SHOES_2x._SY232_CB624172947_.jpg");
+      background-size:cover;
+      position:relative ;
+      bottom:40px ;
+      left:160px;
+    }
+    .fw2{
+      height :100px ;
+      width :100px ;
+      background-image :url("/Amazon /DQC_APR_TBYB_W_BOTTOMS_2x._SY232_CB624172947_.jpg");
+      background-size:cover;
+      position :relative ;
+      bottom:285px;
+      left:160px;
+    }
+    .music{
+      display:flex;
+      justify-content :center ;
+      align-items: center ;
+      font-size:18px ;
+    }
+    .pc{
+      height:320px;
+      width:270px;
+      background-color:#F8F4E1;
+      position:relative ;
+      left:950px;
+      bottom:770px;
+      
+    }
+    .system{
+      height:270px;
+      width:230px;
+      background-image:url("/Amazon /Fuji_Desktop_Single_image_EBF_2x_v1._SY608_CB573698005_.jpg");
+      background-size:cover;
+      position:relative;
+      left:18px;
+      top:17px;
+    }
+    .refresh{
+      height:320px ;
+      width:270px;
+      background-color:#F8F4E1;
+     position:relative;
+     left:650px;
+     bottom:1089px;
+     
+    }
+    .hn{
+      display:flex ;
+      justify-content :center ;
+      align-items:center ;
+      font-size :18px ;
+    }
+    
+    .din{
+      height:100px  ;
+      width:100px;
+      position:relative;
+      background-image :url("/Amazon /DesktopQuadCat_372x232_LP-HP_B08MYX5Q2W_01.23._SY232_CB619238939_.jpg");
+      background-size :cover;
+      top:12px;
+      left:10px;
+    }
+    .kit{
+      height:100px  ;
+      width:100px;
+      background-image:url("/Amazon /DesktopQuadCat_372x232_kitchen_B0126LMDFK_01.23._SY232_CB619238939_.jpg");
+      background-size:cover ;
+      position:relative;
+      left:160px;
+      bottom:190px;
+    }
+  .bed{
+    height:100px;
+    width:100px;
+    background-image:url("/Amazon /DesktopQuadCat_372x232_home_B08RCCP3HV_01.23._SY232_CB619238939_.jpg");
+    background-size :cover;
+    position:relative;
+    top:60px;
+    left:10px;
+  }
+  .bth{
+    height:100px  ; 
+    width:100px;
+    background-image:url("/Amazon /DesktopQuadCat_372x232_health-beauty_B07662GN57_01.23._SY232_CB619238939_.jpg");
+    background-size:cover ;
+    position:relative;
+    bottom:140px;
+    left:160px;
+  }
+  .back{
+    height:50px ;
+    width:1280px ;
+    background-color:#686D76;
+    display:flex;
+    justify-content:center;
+    align-items:center ;
+    color:white;
+    position:relative;
+    bottom:1050px;
+      }
+      .foot2{
+        height:400px;
+        background-color:#373A40;
+        color :white ;
+        display:flex;
+      justify-content:space-evenly;
+      position:relative;
+      bottom:1050px;
+       }
+      
+      ul{
+        display:block;
+      }
+      
+      .foot3{
+        height:150px;
+        background-color:#322C2B;
+        display:flex;
+        justify-content:center ;
+        align-items:center ;
+        position:relative;
+        bottom:1050px;
+      
+      }
+      .img6{
+        height:60px ;
+        width:120px ;
+        background-image:url("/Amazon /png-transparent-amazon-dark-hd-logo-thumbnail (1).png");
+        background-size:cover;
+      }
+      button{
+        background-color:#686D76;
+        height:30px;
+        margin-left:30px ;
+      }
+      .foot4{
+        height:800px;
+        background-color:#222831;
+        display:flex;
+        justify-content:space-evenly;
+        align-items:center ;
+        color:white;
+        position:relative;
+        bottom:1050px;
+         
+      }
+      ul{
+        display:
+      }
+      .f4{
+        position:relative ;
+        top:320px;
+      right:400px;
+      }
+      .pro{
+        margin-left:150px ;
+      }
+      .pro2{
+        margin-left:150px;
+      }
+      .pr{
+        margin-left:150px;
+      }
